@@ -1,8 +1,6 @@
 # flash-progressbar
 QBCore Progressbar CSS EDIT
 
-# Progressbar
-
 Dependency for creating progressbars in QB-Core.
 
 # Usage
