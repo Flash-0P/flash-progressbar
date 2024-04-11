@@ -1,6 +1,5 @@
 # flash-progressbar
 QBCore Progressbar CSS EDIT
-![zhU6s5D](https://github.com/Flash-0p/flash-progressbar/assets/128111282/95aed6a0-2c48-4a71-ac2b-71e1d40d0e34)
 ![QD76g9u](https://github.com/Flash-0p/flash-progressbar/assets/128111282/7f77bc74-0590-49fa-915c-84a3dcc32563)
 
 
